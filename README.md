@@ -1,6 +1,6 @@
 # Pacman - Pygame
 
-A remake of the classic Pac-Man arcade game using Python and Pygame. Developed for Grade 10 Computer Science.
+A remake of the classic Pac-Man arcade game using Python and Pygame.
 
 Pac-Man: https://en.wikipedia.org/wiki/Pac-Man
 
